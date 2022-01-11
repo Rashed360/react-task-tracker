@@ -6,8 +6,11 @@ In the project directory, you can run:
 ```cmd
 npm start
 ```
-- start JSON_SERVER: `npm run server`
-
+- start JSON_SERVER:
+```cmd
+npm run server
+```
+- required dependencies:
 ```json
  "dependencies": {
     "json-server": "^0.17.0",
