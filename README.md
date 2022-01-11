@@ -2,7 +2,10 @@
 
 In the project directory, you can run:
 
-- start application: `npm start`
+- start application:
+```cmd
+npm start
+```
 - start JSON_SERVER: `npm run server`
 
 ```json
