@@ -11,6 +11,12 @@
       "day": "Feb 7th at 1pm",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Doctor Appointment",
+      "day": "Jan 20th at 6pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
