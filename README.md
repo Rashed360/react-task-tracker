@@ -20,3 +20,6 @@ npm run server
     "react-router-dom": "^5.2.0",
   }
 ```
+- user interface:
+![plot](./public/ui/list_ui.png)
+![plot](./public/ui/add_ui.png)
